@@ -3,7 +3,7 @@
 
 
 ### Descrição
-Esse teste tem como objetivo avaliar o conhecimento técnico do candidato em relação a desenvolvimento web.
+Esse teste tem como objetivo avaliar o conhecimento técnico do candidato em relação a desenvolvimento mobile.
 O teste consiste em desenvolver uma aplicação web que consome a API do GitHub e exibe os repositórios de um usuário.
 
 ----------------------------
